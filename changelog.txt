@@ -1,0 +1,4 @@
+Livaco's Printers 2 1.1 Changelog:
+
+- Removed useless bLogs hook. Created the categroy but never did anything with it, don't intend to add support tbh.
+- Added OShop support.
